@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d16b0dc2.chunk.css",
+    "main.js": "/static/js/main.1427f5fa.chunk.js",
+    "main.js.map": "/static/js/main.1427f5fa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.3271de14.chunk.js": "/static/js/2.3271de14.chunk.js",
+    "static/js/2.3271de14.chunk.js.map": "/static/js/2.3271de14.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3e05d5d781d741b91dfd8e2156f5e565.js": "/precache-manifest.3e05d5d781d741b91dfd8e2156f5e565.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d16b0dc2.chunk.css.map": "/static/css/main.d16b0dc2.chunk.css.map",
+    "static/js/2.3271de14.chunk.js.LICENSE.txt": "/static/js/2.3271de14.chunk.js.LICENSE.txt",
+    "static/media/oles.png": "/static/media/oles.1c508c0a.png",
+    "static/media/puddle.png": "/static/media/puddle.5ca02443.png",
+    "static/media/skyscraper.png": "/static/media/skyscraper.c3e05119.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.3271de14.chunk.js",
+    "static/css/main.d16b0dc2.chunk.css",
+    "static/js/main.1427f5fa.chunk.js"
+  ]
+}
